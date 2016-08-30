@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidJniHelper</string>
+    <string name="hello_world">Android Jni 演示</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
